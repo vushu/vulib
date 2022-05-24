@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vulib
+vulib.so
+vulib.dylib
+vulib.dll
+vulib.a
+vulib.lib
+vulib-test-*
+*.exe
+*.o
+*.obj
+*.lst

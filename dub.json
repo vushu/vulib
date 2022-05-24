@@ -1,0 +1,20 @@
+{
+	"authors": [
+		"Dan Vu"
+	],
+	"copyright": "Copyright © 2022, Dan Vu",
+	"dependencies": {
+		"bindbc-opengl": "~>1.0.0",
+		"bindbc-sdl": "~>1.1.1",
+		"dplug:math": "~>12.6.0"
+	},
+	"description": "vushu game library",
+	"license": "MIT",
+	"name": "vulib",
+	"versions": [
+		"BindSDL_Image",
+		"SDLImage205",
+		"SDL_2010",
+		"GL_33"
+	]
+}
